@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/GiaoDien/QuanLyKhoaHoc.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/GiaoDien/DangNhap.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/GiaoDien/QuanLyNguoiHoc.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/Model/NguoiHoc.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/Helper/JDBCHelper.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/GiaoDien/DoiMatKhau.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/GiaoDien/Chao.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/Model/NhanVien.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/DAO/NguoiHocDAO.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/GiaoDien/ExcelWriter.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/GiaoDien/QuanLyHocVien.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/edusysduanmau/EduSysDuAnMau.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/GiaoDien/QuanLy.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/Model/HocVien.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/DAO/NhanVienDAO.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/GiaoDien/QuanLyChuyenDe.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/Model/KhoaHoc.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/Model/ChuyenDe.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/GiaoDien/GioiThieuSP.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/DAO/DAO.java</file>
+            <file>file:/C:/Java1/Lab1/EduSysDuAnMau/src/GiaoDien/TongHopThongKe.java</file>
+        </group>
+    </open-files>
+</project-private>
